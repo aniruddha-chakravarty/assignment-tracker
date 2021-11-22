@@ -1,5 +1,7 @@
 Login API Walkthrough: 
 
+Roles: user / moderator / admin
+
 POST FOR SIGNUP
 
 {
